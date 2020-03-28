@@ -7,7 +7,7 @@
 
 #define PLUGIN_NAME                  "ZombieMod: Core"
 #define PLUGIN_VERS                  "1.0.0"
-#define PLUGIN_AUTH                  "CROCK"
+#define PLUGIN_AUTH                  "Timhunk"
 
 enum _:Forwards {
 	INFECT_PRE = 0,
